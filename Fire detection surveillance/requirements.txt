@@ -1,0 +1,7 @@
+flask
+flask-login
+flask-sqlalchemy
+opencv-python
+ultralytics
+python-dotenv
+twilio
