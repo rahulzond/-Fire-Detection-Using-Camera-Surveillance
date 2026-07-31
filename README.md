@@ -59,7 +59,7 @@ Fire-Detection-Using-Camera-Surveillance/
 └── README.md
 ```
 
-*(Update this section to match your actual repository structure.)*
+
 
 ---
 
@@ -99,7 +99,7 @@ python src/detect.py --source path/to/video.mp4
 - Average inference speed: **[X] FPS** on [hardware used, e.g., NVIDIA GTX 1660].
 - Sample detection outputs are available in the `results/` folder.
 
-*(Replace with your actual metrics.)*
+
 
 ---
 
